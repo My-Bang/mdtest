@@ -99,3 +99,5 @@ ___기울고 굵게___
 
 
 ![이미지 설명](architect-9280053_1280.webp)
+
+[이모지](https://emojipedia.org)
